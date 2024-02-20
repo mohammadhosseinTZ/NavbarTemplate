@@ -1,0 +1,6 @@
+export {Home} from "./home"
+export {About} from "./about"
+export {Users} from "./users"
+export {UserDetails} from "./users"
+export {Options} from "./options"
+export {default as NotFound} from "./NotFound"
